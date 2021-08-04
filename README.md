@@ -1,3 +1,3 @@
-# Placeholder-for-KBS-Article
+# Placeholder
 
-Placeholder pending acceptence of article
+Placeholder 
