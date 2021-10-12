@@ -2,7 +2,7 @@
 
 This is the official code library for:
 
-"Explaining Deep Learning using examples: Optimal feature weighting methods for twin systems using post-hoc, explanation-by-example in XAI": Link [here](https://www.sciencedirect.com/science/article/pii/S0950705121007929).
+"Explaining Deep Learning using examples: Optimal feature weighting methods for twin systems using post-hoc, explanation-by-example in XAI": Published at *Knowledge-Based Systems*: Link [here](https://www.sciencedirect.com/science/article/pii/S0950705121007929).
 
 A PyTorch library available via "pip install" will be made available before December. 
 
