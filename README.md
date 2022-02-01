@@ -20,7 +20,3 @@ If you need something sooner, there is a manual example of how to use twin-syste
 
 
 
-
-https://www.youtube.com/watch?v=tEFkHEKypLI&ab_channel=NeuralNine
-
-
